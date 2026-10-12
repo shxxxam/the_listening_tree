@@ -69,4 +69,4 @@ the_listening_tree/
 
 ---
 
-*Built with ❤️ as a portfolio project.*
+*Built with ❤️ as a School project.*
